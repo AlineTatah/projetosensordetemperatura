@@ -35,5 +35,7 @@ void loop(){
   }
   
 }
+![sensordetemp](https://user-images.githubusercontent.com/132831270/236683776-678ac8ed-03c7-4b6a-bec1-64b0f6209260.png)
+
 
 
